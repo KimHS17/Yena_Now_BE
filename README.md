@@ -1,6 +1,6 @@
 # 📸 예나, 지금 (Yena, Now)
 
-![랜딩 페이지](./Docs/assets/Image/Landing.png)
+![랜딩 페이지](./docs/assets/Image/Landing.png)
 
 > 멀리 있어도, 함께 추억을 남길 수 있는 **온라인 포토부스 서비스**
 
@@ -21,7 +21,7 @@
 
 | Name     | [임성룡](https://github.com/ryongseong)                               | [김예나](https://github.com/yeneua)                                   | [서연희](https://github.com/yeonhui1219)                              |
 | -------- | --------------------------------------------------------------------- | --------------------------------------------------------------------- | --------------------------------------------------------------------- |
-| FE       | <img src="./Docs/assets/Image/성룡.png" width="300px" height="300px"> | <img src="./Docs/assets/Image/예나.jpg" width="300px" height="300px"> | <img src="./Docs/assets/Image/연희.jpg" width="300px" height="300px"> |
+| FE       | <img src="./docs/assets/Image/성룡.png" width="300px" height="300px"> | <img src="./docs/assets/Image/예나.jpg" width="300px" height="300px"> | <img src="./docs/assets/Image/연희.jpg" width="300px" height="300px"> |
 | Position | Leader, 촬영·편집 페이지                                              | FE Leader, 로그인 상태 관리 도입, 어제/지난주의 순간 페이지           | 갤러리·프로필 페이지                                                  |
 | Contact  | ryongseong.dev@gmail.com                                              | yeneua.dev@gmail.com                                                  | tjdusgml1219@naver.com                                                |
 
@@ -29,7 +29,7 @@
 
 | Name     | [김환수](https://github.com/KimHS17)                                     | [박정훈](https://github.com/Leehwa531)                                | [전원균](https://github.com/spotydol7)                                |
 | -------- | ------------------------------------------------------------------------ | --------------------------------------------------------------------- | --------------------------------------------------------------------- |
-| BE       | <img src="./Docs/assets/Image/환수.jpg" width="300px" height="300px">    | <img src="./Docs/assets/Image/정훈.jpg" width="300px" height="300px"> | <img src="./Docs/assets/Image/원균.png" width="300px" height="300px"> |
+| BE       | <img src="./docs/assets/Image/환수.jpg" width="300px" height="300px">    | <img src="./docs/assets/Image/정훈.jpg" width="300px" height="300px"> | <img src="./docs/assets/Image/원균.png" width="300px" height="300px"> |
 | Position | BE Leader, 인프라 및 CI/CD 파이프라인 구축, N컷 게시물·OpenVidu API 개발 | S3 연계 미디어 관리 기능 구현, 댓글·랭킹·촬영 에셋 등 조회 기능 개발  | 사용자 인증 및 FFmpeg 합성 기능 개발, 영상 포트폴리오 제작            |
 | Contact  | skes01149@naver.com                                                      | qwg531@naver.com                                                      | spotydol7@gmail.com                                                   |
 
@@ -702,47 +702,47 @@ FrontEnd
 
 - [포팅매뉴얼](https://www.notion.so/251cff49c3b6805c8088de0e95792cdd)
 - [중간발표자료](https://www.notion.so/250cff49c3b68080b690e9b2b11a0395)
-- [최종발표자료](./Docs/assets/발표%20피피티.pptx)
+- [최종발표자료](./docs/assets/발표%20피피티.pptx)
 
 ## ✨화면 구성
 
 ### 랜딩 페이지
 
-<img src="./Docs/assets/Image/Landing.png" width="1280" height="720">
+<img src="./docs/assets/Image/Landing.png" width="1280" height="720">
 
 ### 로그인
 
-<img src="./Docs/assets/Image/로그인.png" width="1280" height="720">
+<img src="./docs/assets/Image/로그인.png" width="1280" height="720">
 
 - 소셜 로그인(카카오, 구글) 가능
 
 ### 회원가입
 
-<img src="./Docs/assets/Image/회원가입.png" width="1280" height="720">
+<img src="./docs/assets/Image/회원가입.png" width="1280" height="720">
 
 - 이메일 인증 후 가입
 
 ### 정보기입
 
-<img src="./Docs/assets/Image/정보기입.png" width="1280" height="720">
+<img src="./docs/assets/Image/정보기입.png" width="1280" height="720">
 
 - 닉네임 필수 기입
 
 ### 방생성
 
-<img src="./Docs/assets/Gif/방생성.gif" width="1280" height="720">
+<img src="./docs/assets/Gif/방생성.gif" width="1280" height="720">
 
 - 원하는 배경 등록, 필터, 컷 수, 촬영 횟수, 영상 촬영 시간 지정 가능
 
 ### 방입장
 
-<img src="./Docs/assets/Gif/방입장.gif" width="1280" height="720">
+<img src="./docs/assets/Gif/방입장.gif" width="1280" height="720">
 
 - 방 코드 입력 후 입장 가능
 
 ### N컷 촬영
 
-<img src="./Docs/assets/Gif/촬영.gif" width="1280" height="720">
+<img src="./docs/assets/Gif/촬영.gif" width="1280" height="720">
 
 - 크기, 위치, 밝기 개별 조절 가능
 - 타이머 제공, 영상 촬영 시 남은 시간 제공
@@ -751,24 +751,24 @@ FrontEnd
 
 ### 편집
 
-<img src="./Docs/assets/Gif/편집.gif" width="1280" height="720">
+<img src="./docs/assets/Gif/편집.gif" width="1280" height="720">
 
 - 실시간 편집 반영
 - 프레임, 스티커, 텍스트로 꾸미기 가능
 
 ### 갤러리 - 공개
 
-<img src="./Docs/assets/Image/공개갤러리.png" width="1280" height="720">
+<img src="./docs/assets/Image/공개갤러리.png" width="1280" height="720">
 
 ### 갤러리 - 친구
 
-<img src="./Docs/assets/Image/친구갤러리.png" width="1280" height="720">
+<img src="./docs/assets/Image/친구갤러리.png" width="1280" height="720">
 
 - 팔로잉 한 유저의 N컷만 보여짐
 
 ### 갤러리 상세
 
-<img src="./Docs/assets/Image/갤러리 상세.png" width="1280" height="720">
+<img src="./docs/assets/Image/갤러리 상세.png" width="1280" height="720">
 
 - 좋아요, 댓글로 반응
 - N컷 공유 가능
@@ -776,26 +776,26 @@ FrontEnd
 
 ### 어제/지난주의 순간
 
-<img src="./Docs/assets/Gif/어제의순간.gif" width="1280" height="720">
+<img src="./docs/assets/Gif/어제의순간.gif" width="1280" height="720">
 
 - 어제/ 지난주의 N컷을 좋아요가 높은 순으로 볼 수 있음
 
 ### 사용자 검색
 
-<img src="./Docs/assets/Gif/사용자검색.gif" width="1280" height="720">
+<img src="./docs/assets/Gif/사용자검색.gif" width="1280" height="720">
 
 - 사용자 검색 후 프로필 이동
 
 ### 내 프로필
 
-<img src="./Docs/assets/Image/내프로필.png" width="1280" height="720">
+<img src="./docs/assets/Image/내프로필.png" width="1280" height="720">
 
 - 나의 N컷 확인 가능, 내 정보 조회가능
 - 팔로워, 팔로잉 확인 가능
 
 ### 타인 프로필
 
-<img src="./Docs/assets/Image/타인프로필.png" width="1280" height="720">
+<img src="./docs/assets/Image/타인프로필.png" width="1280" height="720">
 
 - 유저의 공개 범위가 전체공개인 N컷 확인 가능
 - 팔로우, 언팔로우 가능
@@ -803,14 +803,14 @@ FrontEnd
 
 ### 정보조회
 
-<img src="./Docs/assets/Image/정보조회.png" width="1280" height="720">
+<img src="./docs/assets/Image/정보조회.png" width="1280" height="720">
 
 ### 정보수정
 
-<img src="./Docs/assets/Image/정보수정.png" width="1280" height="720">
+<img src="./docs/assets/Image/정보수정.png" width="1280" height="720">
 
 - 나의 정보 수정 및 회원 탈퇴
 
 ### 비밀번호 변경
 
-<img src="./Docs/assets/Image/비밀번호 변경.png" width="1280" height="720">
+<img src="./docs/assets/Image/비밀번호 변경.png" width="1280" height="720">
